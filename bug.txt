@@ -1,2 +1,4 @@
 bug 002
 bug 003
+bug 004
+bug 005
