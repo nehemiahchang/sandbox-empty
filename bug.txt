@@ -3,3 +3,4 @@ bug 003
 bug 004
 bug 005
 bug 005
+bug 006
